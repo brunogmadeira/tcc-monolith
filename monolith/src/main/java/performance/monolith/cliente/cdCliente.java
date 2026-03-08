@@ -5,7 +5,7 @@ import lombok.Data;
 
 @Entity
 @Data
-@Table(name = "cliente")
+@Table(name = "clientes")
 public class cdCliente {
     private static final long serialVersionUID = 1L;
 
